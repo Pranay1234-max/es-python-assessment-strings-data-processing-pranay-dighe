@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Assessment Overview
+##  Assessment Overview
 
 This repository contains my solution for the **Python Programming Assessment: Strings & Data Processing**.
 
@@ -20,7 +20,7 @@ The assessment focuses on:
 
 ---
 
-## 📝 Questions & Solutions
+##  Questions & Solutions
 
 ### 1. Reverse a String
 
@@ -80,7 +80,7 @@ Output: 3
 
 ---
 
-## ⚠️ Edge Cases
+##  Edge Cases
 
 The solution handles the following cases:
 
@@ -92,7 +92,7 @@ The solution handles the following cases:
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The functions were tested with sample inputs to verify the expected behavior.
 
@@ -112,7 +112,7 @@ Output: 3
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Python Solution File/
@@ -122,13 +122,13 @@ Python Solution File/
 
 ---
 
-## 🛠️ Technology Used
+##  Technology Used
 
 * Python
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Pranay Dighe**
 
